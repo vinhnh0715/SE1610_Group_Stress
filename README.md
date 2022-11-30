@@ -6,5 +6,5 @@
 - Trang Minh Quang
 # Documentation: 
 - https://drive.google.com/drive/folders/1vac4IYe0r4W-0cxPHMtcK2JeqJArsBXu?usp=sharing
-
-"# CarBooking" 
+# Original project repository (Privated):
+- https://github.com/nhduchuy2306/SE1610_Group_Stress
